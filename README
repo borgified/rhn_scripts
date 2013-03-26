@@ -1,0 +1,4 @@
+translated python scripts into perl. these scripts are aimed at managing rhn subscriptions
+via cli rather than the clumsy web gui.
+
+thanks to original scripts from http://www.swissunixsupport.com/tips/rhn-tricks (in python)
